@@ -1,0 +1,10 @@
+# NEVER commit an unencrypted build. Only index.html belongs in this repo.
+board.html
+ncaaf-line-board.html
+preview.html
+test-gated.html
+*.part
+games.js
+snapshot.json
+build_gated.py
+*.png
