@@ -8,3 +8,6 @@ games.js
 snapshot.json
 build_gated.py
 *.png
+auto-push.sh
+.auto-push.log
+com.mike.ncaaf-autopush.plist
