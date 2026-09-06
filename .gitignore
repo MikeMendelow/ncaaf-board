@@ -11,3 +11,5 @@ build_gated.py
 auto-push.sh
 .auto-push.log
 com.mike.ncaaf-autopush.plist
+.auto-push.out
+.auto-push.err
